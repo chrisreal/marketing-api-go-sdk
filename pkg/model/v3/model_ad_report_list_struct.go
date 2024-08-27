@@ -11,4 +11,14 @@ package model
 
 // 返回结构
 type AdReportListStruct struct {
+	AccountId          *int64  `json:"account_id,omitempty"`
+	Date               *string `json:"date,omitempty"`
+	UnionPositionId    *int64  `json:"union_position_id,omitempty"`
+	IndustryParentName *string `json:"industry_parent_name,omitempty"`
+	PlacementName      *string `json:"placement_name,omitempty"`
+	PlacementType      *string `json:"placement_type,omitempty"`
+	ViewCount          *int64  `json:"view_count,omitempty"`
+	ValidClickCount    *int64  `json:"valid_click_count,omitempty"`
+	ConversionsCount   *int64  `json:"conversions_count,omitempty"`
+	Cost               *int64  `json:"cost,omitempty"`
 }
