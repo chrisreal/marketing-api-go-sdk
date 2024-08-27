@@ -15,11 +15,11 @@ import (
 	"net/http"
 
 	"github.com/antihax/optional"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/ads"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/api"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/config"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/errors"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/model"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/ads"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/api"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/config"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/errors"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/model"
 )
 
 type CustomAudienceFilesGetExample struct {

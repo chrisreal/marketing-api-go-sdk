@@ -29,8 +29,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/tencentad/marketing-api-go-sdk/pkg/config"
-	apierrors "github.com/tencentad/marketing-api-go-sdk/pkg/errors"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/config"
+	apierrors "github.com/chrisreal/marketing-api-go-sdk/pkg/errors"
 	"golang.org/x/oauth2"
 )
 

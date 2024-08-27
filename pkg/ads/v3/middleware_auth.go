@@ -16,7 +16,7 @@ import (
 	"time"
 
 	uuid "github.com/google/uuid"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/config/v3"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/config/v3"
 )
 
 // AuthMiddleware ...

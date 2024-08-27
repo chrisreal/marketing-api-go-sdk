@@ -15,10 +15,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/tencentad/marketing-api-go-sdk/pkg/ads/v3"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/config/v3"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/errors"
-	"github.com/tencentad/marketing-api-go-sdk/pkg/model/v3"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/ads/v3"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/config/v3"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/errors"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/model/v3"
 )
 
 type QualificationImagesAddExample struct {

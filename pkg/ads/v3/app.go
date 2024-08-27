@@ -10,7 +10,7 @@
 package ads
 
 import (
-	"github.com/tencentad/marketing-api-go-sdk/pkg/api/v3"
+	"github.com/chrisreal/marketing-api-go-sdk/pkg/api/v3"
 )
 
 func (c *SDKClient) AccountVersion() *api.AccountVersionApiService {
